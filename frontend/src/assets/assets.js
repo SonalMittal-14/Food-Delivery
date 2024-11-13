@@ -102,7 +102,7 @@ export const food_list = [
     },
     {
         _id: "7",
-        name: "haha Salad",
+        name: "Maze ka Salad",
         image: food_1,
         price: 12,
         description: "Food provides essential nutrients for overall health and well-being.",
