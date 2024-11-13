@@ -12,6 +12,9 @@ import food_1 from './food_1.png'
 
 
 
+
+
+
 export const menu_list = [
     {
         menu_name : "Salad",
@@ -52,6 +55,54 @@ export const food_list = [
     {
         _id: "1",
         name: "Greek Salad",
+        image: food_1,
+        price: 12,
+        description: "Food provides essential nutrients for overall health and well-being.",
+        category: "Salad"
+    },
+    {
+        _id: "2",
+        name: "chiken Salad",
+        image: food_1,
+        price: 12,
+        description: "Food provides essential nutrients for overall health and well-being.",
+        category: "Salad"
+    },
+    {
+        _id: "3",
+        name: "masala Salad",
+        image: food_1,
+        price: 12,
+        description: "Food provides essential nutrients for overall health and well-being.",
+        category: "Salad"
+    },
+    {
+        _id: "4",
+        name: "Greennnn Salad",
+        image: food_1,
+        price: 12,
+        description: "Food provides essential nutrients for overall health and well-being.",
+        category: "Salad"
+    },
+    {
+        _id: "5",
+        name: "hehe Salad",
+        image: food_1,
+        price: 12,
+        description: "Food provides essential nutrients for overall health and well-being.",
+        category: "Salad"
+    },
+    {
+        _id: "6",
+        name: " bye Salad",
+        image: food_1,
+        price: 12,
+        description: "Food provides essential nutrients for overall health and well-being.",
+        category: "Salad"
+    },
+    {
+        _id: "7",
+        name: "haha Salad",
         image: food_1,
         price: 12,
         description: "Food provides essential nutrients for overall health and well-being.",
